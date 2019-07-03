@@ -12,14 +12,17 @@
 
 # Cara Menggunakannya
 
-#1) clone dulu got clonenya kalo ga paham 
+
+#1) pkg update && pkg upgrade-y
+
+#2) clone dulu git clonenya kalo ga paham 
     git clone https://github.com/varvan/ToolsMr.X-Troll
 
-#2) Kasih Permission Caranya chmod +x BG71.sh
+#3) Kasih Permission Caranya chmod +x BG71.sh
 
-#3) Kalo Sudah Tinggal Jalanin Aja TOD :v
+#4) Kalo Sudah Tinggal Jalanin Aja TOD :v
 
-#4) Caranya sh BG71.sh
+#5) Caranya sh BG71.sh
 
 
 
